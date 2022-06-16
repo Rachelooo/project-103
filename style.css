@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(189, 188, 255);
+    color: white;
+}
+.title{
+    width:80%;
+    font-size:30px;
+}
+#camera{
+    border: 2px rgb(160, 160, 255);
+    width:350px;
+    height:300px;
+}
+.objects, #object_name, #accuracy {
+    color: beige;
+}
